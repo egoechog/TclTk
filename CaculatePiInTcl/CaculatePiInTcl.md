@@ -1,4 +1,14 @@
+---
+layout: post
+title: 使用蒙特卡罗方法求解圆周率的tcl/tk脚本
+date: 2017-1-20
+categories: tcl/tk
+tags: [tck/tk]
+description: 使用蒙特卡罗方法求解圆周率的tcl/tk脚本
+---
+
 读了阮一峰的[蒙特卡罗方法入门](http://www.ruanyifeng.com/blog/2015/07/monte-carlo-method.html)，用概率统计的方式求解棘手的数学问题还挺有意思的,尤其是利用正方形和它的内切圆之间的面积关系来建模求解圆周率的方法精巧又简单，比投针实验好理解也好实现多了。建模可不是Matlab或者MAST/VHDL语言的专利，既然tcl/tk语言也有内置的随机数产成函数*rand()*,那么我用tcl/tk建模计算圆周率也应该不在话下。
+<!--more-->
 ####建模思想
 
 正方形的内切圆与该正方形的面积之比是π/4。
