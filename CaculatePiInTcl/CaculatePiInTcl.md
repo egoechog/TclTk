@@ -3,9 +3,9 @@
 
 正方形的内切圆与该正方形的面积之比是π/4。
 
-![bg2015072611](C:\Users\tlguo\Documents\My Knowledge\temp\4d5b1bfa-a039-4b19-8e71-8c552c8ab615\128\index_files\bg2015072611.jpg)
+![figure](http://www.ruanyifeng.com/blogimg/asset/2015/bg2015072611.jpg)
 
-![bg2015072603](C:\Users\tlguo\Documents\My Knowledge\temp\4d5b1bfa-a039-4b19-8e71-8c552c8ab615\128\index_files\bg2015072603.jpg)
+![formula](http://www.ruanyifeng.com/blogimg/asset/2015/bg2015072603.jpg)
 
 图片和公式引用自 阮一峰的[蒙特卡罗方法入门]( http://www.ruanyifeng.com/blog/2015/07/monte-carlo-method.html)
 
